@@ -2,9 +2,6 @@
 .env
 .env.local
 
-# Data files
-data/
-*.csv
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
