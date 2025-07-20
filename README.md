@@ -78,7 +78,7 @@ Place all required data CSVs for nodes/edges in the `data/` directory:
 
 1. **Open Jupyter or Colab**
 
-   - [Open in Colab](https://colab.research.google.com/github/fahrudeen/GraphRAG/blob/main/notebooks/graphrag_pipeline.ipynb)
+   - [Open in Colab](https://colab.research.google.com/github/fahrudeen/GraphRAG/blob/master/notebooks/graphrag_pipeline.ipynb)
    - Or: Launch `notebooks/graphrag_pipeline.ipynb` in Jupyter
 
 2. **Run All Cells**
@@ -139,6 +139,6 @@ Contributions and suggestions are welcome!
 
 ---
 
-**Contact:** [fahrudeen@protonmail.com](mailto:fahrudeen@protonmail.com) (edit as needed)
+**Contact:** [fahrudeen001@gmail.com](mailto:fahrudeen001@gmail.com)
 
 
